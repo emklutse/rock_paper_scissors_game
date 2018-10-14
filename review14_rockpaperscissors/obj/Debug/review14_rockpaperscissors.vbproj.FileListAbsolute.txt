@@ -1,0 +1,12 @@
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\bin\Debug\review14_rockpaperscissors.exe.config
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\bin\Debug\review14_rockpaperscissors.exe
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\bin\Debug\review14_rockpaperscissors.pdb
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\bin\Debug\review14_rockpaperscissors.xml
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\obj\Debug\review14_rockpaperscissors.vbprojAssemblyReference.cache
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\obj\Debug\review14_rockpaperscissors.Resources.resources
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\obj\Debug\review14_rockpaperscissors.vbproj.GenerateResource.cache
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\obj\Debug\review14_rockpaperscissors.vbproj.CoreCompileInputs.cache
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\obj\Debug\review14_rockpaperscissors.exe
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\obj\Debug\review14_rockpaperscissors.xml
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\obj\Debug\review14_rockpaperscissors.pdb
+C:\Users\Emmanuel Klutse\source\repos\chap5\review14_rockpaperscissors\review14_rockpaperscissors\obj\Debug\review14_rockpaperscissors.Form1.resources
